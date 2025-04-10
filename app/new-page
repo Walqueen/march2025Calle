@@ -1,0 +1,9 @@
+export default function NewPage() {
+    return {
+        <>
+        <p>this is a paragrpah</p>
+        <h1>this is a header</h1>
+        </>
+    }
+}
+
